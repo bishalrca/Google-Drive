@@ -1,0 +1,14 @@
+### pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+
+It is one of the useless thing but im trying to show that hit map.
+
+## Download all requirements 
+## you got to get the json file through cloud.google.com
+## enable the google drive api add OAuth credentials and you will get the json file and to the python script.
+
+
+
+
+The main purpose of this repo is to download the drive file i think it only downloads the pdf i am not sure ! 
+
+Happy Coding !!!
